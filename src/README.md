@@ -1,0 +1,1 @@
+﻿Slowly repair equippable inventory items after rest.

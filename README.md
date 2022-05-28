@@ -1,1 +1,1 @@
-# Outward.SmartAI
+# Skip Readiness Check
